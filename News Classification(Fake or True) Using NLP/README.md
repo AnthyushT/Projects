@@ -1,5 +1,5 @@
 ## NEWS CLASSIFICATION USING NLP
-- The project involves building a machine learning model to classify news articles as genuine or false.This project aims at building a model which classifies whether the news given is genuine news or false news by using Natural Language Processing, NLP techniques such as text pre-processing (tokenization, stemming, and stopword removal), vectorization, and usage of libraries like NLTK and scikit-learn.
+- This project aims at building a model which classifies whether the news given is genuine news or false news by using Natural Language Processing, NLP techniques such as text pre-processing (tokenization, stemming, and stopword removal), vectorization, and usage of libraries like NLTK and scikit-learn.
 
 - The model has be trained on a dataset(Fake and True) of news articles using supervised learning techniques such as the Passive Aggressive Classifier and Logistic Regression.
 
